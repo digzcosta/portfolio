@@ -7,4 +7,4 @@ Nesse curso voce vai dominar todo **git** e **github** _do zero ao profissional.
 _Entendendo o que é **git**, aprendendo sobre **repositórios**, trabalhando com **branches**_
 
 ### Rede social:
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/diegohcosta/)
