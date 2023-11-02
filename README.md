@@ -23,3 +23,13 @@ Nesse curso voce vai dominar todo **git** e **github** _do zero ao profissional.
 >Este é um blockquote usado para destacar uma área
 >
 >Segunda área destacada
+
+
+**Comando para rodar o projeto**
+
+```html
+<h1>
+    Titulo do projeto
+    <span>Curso de Git<span>
+</h1>
+```
