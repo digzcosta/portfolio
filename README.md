@@ -41,3 +41,10 @@ Nesse curso voce vai dominar todo **git** e **github** _do zero ao profissional.
     <span>Curso de Git<span>
 </h1>
 ```
+
+Propriedades | Descrição
+-----------  | ----------
+name | Informar o nome do usuário
+size | Definir o tamanho do campo
+background | Cor de fundo de uma área em HEX
+onPress | Função chamada quando clicar no botão
